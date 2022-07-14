@@ -1,6 +1,3 @@
-
-
-
 class ItcTabs {
     constructor(target, config) {
       const defaultConfig = {};
